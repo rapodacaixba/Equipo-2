@@ -1,0 +1,3 @@
+com\exampleSecurity\SecuritySpring\WebSecurityConfig.class
+com\exampleSecurity\SecuritySpring\SecuritySpringApplication.class
+com\exampleSecurity\SecuritySpring\MvcConfig.class
